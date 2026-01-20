@@ -7,7 +7,10 @@ https://docs.google.com/presentation/d/1xWZqpuQgy49yc3Cgy78S3v45u9ZsChBmCJxPWC8P
 
 ## Spatial-omics data Registration
 
-### Code 
+### Code
+
+Original repository: https://github.com/scOpenLab/MultimodalRegistration
+
 
 ### Data
 
