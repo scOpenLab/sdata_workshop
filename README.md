@@ -1,12 +1,9 @@
-# FOG 2026 Registration and Visualization of multimodal datasets
-Workshop on SpatialData registration and visualization
-
-## Slides:
-The final version will be uploaded on Zenodo, for now the slides can be accessed at:  
-https://docs.google.com/presentation/d/1xWZqpuQgy49yc3Cgy78S3v45u9ZsChBmCJxPWC8Pra4/edit?usp=sharing
+# Interactive Visualization of Spatial-transcriptomics Data
+Workshop on SpatialData visualization
 
 ## Spatial-omics data Registration
 
+Workflow to produce the Xenium-COMET dataset used in the visualization workshop.
 Adapted from : https://spatialdata.scverse.org/en/latest/tutorials/notebooks/notebooks/examples/alignment_using_landmarks.html
 
 ### Code
