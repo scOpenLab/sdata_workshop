@@ -43,3 +43,4 @@ Zipped output of the registration tutorial above:
 ### Code
 - Napari + napari-spatialdata script: https://github.com/scOpenLab/sdata_workshop/blob/b09b386fefb4b5a2277c131897b7028c4fb32aa3/visualization/napari_sd_remote.py
 - easy-vitessce: https://github.com/scOpenLab/sdata_workshop/blob/b09b386fefb4b5a2277c131897b7028c4fb32aa3/visualization/easy-vitessce-MB299.ipynb
+- harpy-vitessce: https://github.com/scOpenLab/sdata_workshop/blob/4e8394969e38da07717901db07776cb8f4677c2d/visualization/harpy-vitessce-MB299.ipynb
